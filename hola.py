@@ -1,2 +1,3 @@
-print ("hola mundo")
-print ("otra linea")
+print("hola mundo")
+print("otra linea")
+name = "james"
